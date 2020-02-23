@@ -1,6 +1,7 @@
-# point_4
+# Meal Recipe App
 
-A new Flutter project.
+This repository contains the codes to make an app that has the recipe for a few cuisine's.The lib file contains all the .dart files and the other files are required to run the app in your device.
+Feel free to go through the codes and have fun!
 
 ## Getting Started
 
